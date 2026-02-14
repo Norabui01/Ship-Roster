@@ -1,6 +1,3 @@
-# Introduction to my Ship-Roster program
-
-<html><h3>It is a short program and this is my first time using a bit OOP <^-^>.</h3>
 
 The program will read from a cvs file (a roster of ship information) and display it through pop-up window. 
 I also impletemented try/catch for checking file errors and let user look up for the ship information of each country.
